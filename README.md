@@ -1,0 +1,1 @@
+# inventory_medicalstore_app
